@@ -7,7 +7,7 @@ package fit
 import (
 	"reflect"
 
-	"github.com/tormoder/fit/internal/types"
+	"github.com/matm/fit/internal/types"
 )
 
 const (

@@ -1,4 +1,4 @@
-module github.com/tormoder/fit
+module github.com/matm/fit
 
 go 1.15
 
